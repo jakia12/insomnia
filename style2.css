@@ -2353,7 +2353,7 @@ p {
   display: flex;
   height: auto;
   padding-top: 8em;
-  padding-bottom: 8em;
+  /* padding-bottom: 8em; */
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -5859,7 +5859,7 @@ p {
   }
 
   .about__wrapper {
-    padding-bottom: 5.9em;
+    /* padding-bottom: 5.9em; */
   }
 
   .about__content {
